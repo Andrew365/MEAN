@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://Andrew:baseball365@candidate.13.mongolayer.com:11126,candidate.4.mongolayer.com:10764/andrewdb?replicaSet=set-55a7f239860fd3c71b0009f2',
+	db: 'mongodb://Andrew:baseball365@ds033750.mongolab.com:33750/andrewdb',
 	app: {
 		title: 'myMeanjs - Development Environment'
 	},
